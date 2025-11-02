@@ -20,6 +20,9 @@ Smart contracts on **Stellar** ensure transparency for NGOs, donors, and benefic
 - **Language:** Rust  
 - **Tools:** Stellar CLI, Cargo, Soroban SDK  
 
+## you can check a demo at 
+https://preview--stellar-aid-showcase.lovable.app/
+
 ## 📅 Project Roadmap (25 Days)
 | Phase | Timeline | Task |
 |-------|-----------|------|

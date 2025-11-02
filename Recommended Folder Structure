@@ -1,0 +1,15 @@
+transparent-aid-microfinance-stellar/
+│
+├── contracts/
+│   ├── Cargo.toml
+│   └── src/
+│       └── lib.rs
+│
+├── tests/
+│   └── contract_test.rs
+│
+├── README.md
+│
+├── .gitignore
+│
+└── LICENSE   (optional)
